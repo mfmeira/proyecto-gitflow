@@ -1,0 +1,35 @@
+/* Archivo CSS para estilos de la web */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header, footer {
+    background-color: #ff9100;
+    color: rgb(211, 36, 196);
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+footer {
+    font-size: 0.9em;
+}
+header img {
+    width: 50px; /* Ajusta el tamaño según lo necesites */
+    height: auto;
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+    vertical-align: middle; /* Alinea la imagen con el texto */
+}
